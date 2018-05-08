@@ -11,5 +11,5 @@
 
 		painel.classList.remove('invisivel');
 		this.classList.add('invisivel');
-	}
+	};
 })();
